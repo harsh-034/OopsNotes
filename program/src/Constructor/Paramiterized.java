@@ -2,7 +2,7 @@ package Constructor;
 
 public class Paramiterized {
     public Paramiterized(String name){
-        System.out.print(name);
+        System.out.println(name);
     }
    public  Paramiterized(int age){
         System.out.println("your age : "+age);
